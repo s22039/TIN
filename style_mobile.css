@@ -1,0 +1,48 @@
+body {
+	font-size:15px;
+	
+}
+.grid-container{
+    width: 100%
+}
+.header{
+	display: flex;
+    align-items: center;
+	justify-content: center;
+	width:100%;
+	height: 70px;
+	background-color: #312921;
+}
+
+
+.top-menu{
+	display: flex;
+    align-items: center;
+	justify-content: center;
+	float: left;
+	width:100%
+}
+.top-menu ul li{
+	display: flex;
+    align-items: center;
+	list-style: none;
+	float:left;
+	font-size:15px;
+	
+	padding :8px;
+}
+
+.img1{
+	display:none;
+}
+#myImg{
+	 width: 175px;
+	 height:250px
+	
+}
+
+
+
+#footer{
+	display:none;
+}
